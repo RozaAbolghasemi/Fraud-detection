@@ -70,7 +70,7 @@ Each row represents a single invoice sent to a customer. Below are selected feat
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/transaction-anomaly-detection.git
+   git clone https://github.com/RozaAbolghasemi/Fraud-detection/blob/main/Fraud_Detection.ipynb
 
 
 2. Install the requirements
