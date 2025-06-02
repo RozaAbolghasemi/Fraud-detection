@@ -17,6 +17,7 @@ Since no confirmed fraud cases exist, this task focuses on unsupervised anomaly 
   - Irregular address or SSN usage
   - Repeated or coordinated transactions across multiple identities
   - Signs of identity misuse or synthetic identities
+- model development and deployment
 
 ## 🧰 Tools & Technologies
 
