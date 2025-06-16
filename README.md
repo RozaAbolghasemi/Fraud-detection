@@ -1,4 +1,4 @@
-# Fraud Detection in Financial Invoices
+# Fraud Detection and risk analysis
 
 This project presents an exploratory data analysis and anomaly detection approach for identifying suspicious invoice activity within a financial services context. The goal is to uncover patterns of potential fraud or credit abuse in customer transaction data following a system integrity issue.
 
